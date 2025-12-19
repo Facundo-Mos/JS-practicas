@@ -5,8 +5,9 @@ console.log(animales[0]);//la cuenta de elementos empieza desde 0, es decir 0 = 
 animales[2] = 'dragon'; //aca se esta agregando el elemento 2 
 
 console.log(animales[0]);
-/*hay que estar atentos cuando se agregan elementos a los arreys porque 
-en el caso de agregar un elementos de mas nos va a decir que es null null=object*/
+/*hay que estar atentos cuando se agregan elementos a los arrays porque 
+en el caso de agregar un elemento mas salteando el orden nos va a decir que es null 
+null=object en el numero salteado*/
 
 //EJ
 animales[10] = 'pez' /*en este caso del elemento 3 al 9 seran null 
