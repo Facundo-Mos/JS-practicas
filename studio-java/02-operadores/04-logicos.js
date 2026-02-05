@@ -2,8 +2,11 @@
 los operadores logicos en Js son 3
 AND, OR, NOT
 */
+
+
+
 /*
-AND se puede utilizar usando && y se usa de la siguiente manera
+                                                                AND se puede utilizar usando && y se usa de la siguiente manera
 */
 
 
@@ -22,7 +25,15 @@ let mayor = false;
 let suscripto = true
 console.log('operador and', mayor && suscripto);
 
-//OR se utiliza usando || (alt gr 1 para hacer las barras) 
+
+
+
+                                                                //OR se utiliza usando || (alt gr 1 para hacer las barras) 
+
+
+
+
+
 
 /*
 en este caso la unica forma para obtener un false es que los dos sean false, si uno de los dos es verdadero
@@ -33,7 +44,8 @@ console.log('operador or', mayor || suscripto);
 
 
 
-//NOT el utiliza usando ! antes de la variable
+                                                                //NOT el utiliza usando ! antes de la variable
+
 
 console.log('operador NOT', !mayor);
 /*
